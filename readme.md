@@ -1,7 +1,7 @@
 # LibreTV - 免费在线视频搜索与观看平台
 
 <div align="center">
-  <img src="image/logo.png" alt="LibreTV Logo" width="120">
+  <img src="https://github.com/KonoLLo/LibreTV/blob/26ec4e897c7ddc8968d21bcf0afab07e06348852/image/logo.png" alt="LibreTV Logo" width="120">
   <br>
   <p><strong>自由观影，畅享精彩</strong></p>
 </div>
