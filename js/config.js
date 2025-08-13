@@ -14,7 +14,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://tv.hidekk.cn',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
@@ -41,11 +41,6 @@ const API_SITES = {
         api: 'https://www.hongniuzy2.com/api.php/provide/vod',
         name: '红牛资源',
         detail: 'https://www.hongniuziyuan.com', 
-    },
-    moduzy: {
-        api: 'https://www.mdzyapi.com/api.php/provide/vod',
-        name: '魔都资源',
-        detail: 'https://moduzy10.com', 
     },
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
