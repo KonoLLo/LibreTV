@@ -22,37 +22,37 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-    mtzy: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
-        name: '茅台资源',
-        detail:'https://mtzy.me', 
-    },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
-        name: '黑木耳资源',
-        detail: 'https://heimuer.tv', 
+        name: '黑木耳',
+    },
+    gszy: {
+        api: 'https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8',
+        name: '光速资源',
+    },
+    bdzy: {
+        api: 'https://api.apibdzy.com/api.php/provide/vod',
+        name: '百度资源'
     },
     yhzy: {
         api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
         name: '樱花资源',
-        detail: 'https://yhzy.cc', 
     },
     hnzy: {
         api: 'https://www.hongniuzy2.com/api.php/provide/vod',
         name: '红牛资源',
-        detail: 'https://www.hongniuziyuan.com', 
     },
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
+    sdzy: {
+        api: 'https://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
+        name: '闪电资源'
+    },
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
-    },
-    lzi: {
-        api: 'https://cj.lziapi.com/api.php/provide/vod/',
-        name: '量子资源'
     },
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
